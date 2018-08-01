@@ -1,0 +1,26 @@
+
+body, html {
+    height: 100%;
+    background-image: url("../../assets/images/background.jpg"); 
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.header {
+    position: relative;
+    top: 0;
+    text-align: center;
+    color: white;
+    margin: 20px;
+    font-size: 40%;
+    padding-top: 40px;
+}
+.card {
+    background-color: transparent;
+    border: none;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    color: white;
+}
